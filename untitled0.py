@@ -6,9 +6,4 @@ Created on Thu Jun 27 19:22:41 2019
 """
 
 print ('poshan')
- In[1]:a=5;
- b= 10;
-sum = 0;
-sum = a+b;
-print(sum);
-
+print('Nepal is my Country')
