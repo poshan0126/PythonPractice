@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 29 20:07:07 2019
+Created on Sat Jun 29 20:05:33 2019
 
 @author: Poshan Pandey
 """
 
-# Store input numbers
-num1 = input('Enter first number: ')
-num2 = input('Enter second number: ')
+num1 = 1.5
+num2 = 6.3
 # Add two numbers
 sum = float(num1) + float(num2)
 # Display the sum
